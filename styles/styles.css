@@ -1,0 +1,14 @@
+.loginarea{
+ text-align: center;
+ padding:10%; 
+}
+
+
+body{
+    background-color: yellow;
+    color: grey;
+}
+
+.loginbutt{
+    margin-top: 10px;
+}
